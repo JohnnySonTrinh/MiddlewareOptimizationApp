@@ -1,11 +1,3 @@
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.csproj.AssemblyReference.cache
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/rpswa.dswa.cache.json
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.GeneratedMSBuildEditorConfig.editorconfig
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.AssemblyInfoInputs.cache
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.AssemblyInfo.cs
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.csproj.CoreCompileInputs.cache
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.MvcApplicationPartsAssemblyInfo.cs
-/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/appsettings.Development.json
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/appsettings.json
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/MiddlewareOptimizationApp.staticwebassets.endpoints.json
@@ -16,6 +8,15 @@
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/MiddlewareOptimizationApp.pdb
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.csproj.AssemblyReference.cache
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.AssemblyInfoInputs.cache
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.AssemblyInfo.cs
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.csproj.CoreCompileInputs.cache
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/MiddlewareOptimizationApp.sourcelink.json
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/johnnytrinh/Documents/GitHub/MiddlewareOptimizationApp/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
